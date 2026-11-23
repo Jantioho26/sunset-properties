@@ -472,7 +472,9 @@ if (selectedProperty) {
               "linear-gradient(160deg, #3d5a58, #8a7a5c 55%, #2b2a26)",
           }}
         >
-          <h1>Sunset Properties</h1>
+       <h1>
+  Sunset <span>Properties</span>
+</h1>
 
           <p>
             Discover beautiful vacation rentals along the water.
