@@ -1,16 +1,48 @@
-# React + Vite
+### Sunset Properties
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive vacation rental website built with React and Vite. Sunset Properties allows users to explore coastal vacation homes, view property details, and navigate an interactive booking experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Responsive design for desktop, tablet, and mobile
 
-## React Compiler
+Dynamic vacation rental listings with property photos and details
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Interactive date selection and guest booking search
 
-## Expanding the ESLint configuration
+Property detail pages with amenities and pricing
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Booking and checkout flow
+
+Contact modal for guest inquiries
+
+Custom CSS styling and mobile optimization
+
+## Technologies Used
+
+React – Component-based user interface
+
+JavaScript – Interactive functionality
+
+Vite – Development and production builds
+
+CSS3 – Responsive layouts, animations, and styling
+
+GitHub & Vercel – Version control and deployment
+
+## Getting Started
+
+Clone the repository and install dependencies:
+
+git clone https://github.com/Jantioho26/sunset-properties.git
+cd sunset-properties
+npm install
+npm run dev
+
+# About the Project
+
+Sunset Properties was developed as a frontend portfolio project to demonstrate responsive web design, React component development, state management, and user-focused functionality.
+
+GitHub
+
+https://github.com/Jantioho26/sunset-properties
